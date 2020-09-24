@@ -1,5 +1,5 @@
+# bulky waste dataset(95 classes)
 
-95 bulky waste dataset
 
 The link of dataset：https://sejonguniversity-my.sharepoint.com/:f:/g/personal/hanxiang_sju_ac_kr/Ekpfpvmo8adPrhEQhi4EHvoBO8rqywa2WrrliUy4LVyF8Q
 
